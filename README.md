@@ -34,5 +34,5 @@ Run
 ### Example
 	node index.js http://myproxy.com:80 http://www.google.com:80 8888 true
 	
-http://localhost:8888 should now forward me to google.com.
+http://localhost:8888 should now forward you to google.com.
 	
